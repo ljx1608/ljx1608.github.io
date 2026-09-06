@@ -2,7 +2,7 @@
 title: "nothing much"
 description: ""
 date: "2025-12-26"
-demoURL: "https://ljx1608.xyz"
+demoURL: "https://ljx1608.dev"
 repoURL: "https://github.com/ljx1608/ljx1608.github.io"
 ---
 
